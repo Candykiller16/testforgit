@@ -4,4 +4,4 @@ def fac(n):
     return fac(n - 1) * n
 
 
-print(fac(5))
+# print(fac(5))
