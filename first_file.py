@@ -6,3 +6,4 @@ def fac(n):
 
 # print(fac(5))
 print('Hello world')
+print('ASS')
